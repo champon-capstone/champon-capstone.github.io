@@ -16,3 +16,7 @@
 
 ### 프로젝트 소개
 ![Jetkick](/images/jetkick-logo.png)
+- 프로젝트명: Jetkick
+- 상대방의 자동차를 밖으로 밀어서 마지막까지 생존하는 게임
+
+[![YouTube](https://img.youtube.com/vi/7yD4BIZHV4s/0.jpg)](https://youtu.be/7yD4BIZHV4s)
